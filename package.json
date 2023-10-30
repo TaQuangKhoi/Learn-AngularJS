@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/TaQuangKhoi/Learn-AngularJS",
+
   "dependencies": {
     "angular": "1.8.x",
     "angular-animate": "1.8.x",
