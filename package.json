@@ -2,7 +2,7 @@
   "name": "learn-angularjs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app/app.js",
   "repository": "https://github.com/TaQuangKhoi/Learn-AngularJS",
 
   "dependencies": {

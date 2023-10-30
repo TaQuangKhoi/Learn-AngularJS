@@ -21,5 +21,16 @@
 
 <p>Total number of phones: {{phones.length}}</p>
 
+<table class="table">
+    <tr>
+        <th ng-repeat="header in tableHeaders">
+            {{header}}
+        </th>
+    </tr>
+    <tr ng-repeat="line in numbers">
+        <td ng-repeat="number in line">{{number}}</td>
+    </tr>
+</table>
+
 </body>
 </html>
