@@ -3,6 +3,8 @@ let haoVanApp = angular.module('haoVanApp', []);
 
 // Define the `PhoneListController` controller on the `haoVanApp` module
 haoVanApp.controller('PhoneListController', function PhoneListController($scope) {
+    $scope.name = 'Hảo Văn'
+
     $scope.phones = [
         {
             name: 'Nexus S',
