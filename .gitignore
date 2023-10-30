@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# For this project
+logs/*
+!.gitkeep
+app/lib/
+tmp
+.DS_Store
+.idea
+angular-phonecat-snapshots
